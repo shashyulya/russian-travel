@@ -1,0 +1,26 @@
+.header__lang-link {
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: right;
+color: #FFFFFF;
+text-decoration: none;
+display: inline-flex;
+flex-direction: row;
+}
+.header__lang-link:nth-of-type(1) {
+  text-decoration: underline;
+  position: absolute;
+  right: 95px;
+  top: 46px;
+  width: 30px;
+  height: 28px;
+}
+.header__lang-link:nth-of-type(2) {
+  position: absolute;
+  right: 48px;
+  top: 46px;
+  width: 30px;
+  height: 28px;
+}

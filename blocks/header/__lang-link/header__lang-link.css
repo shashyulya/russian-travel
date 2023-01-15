@@ -1,0 +1,12 @@
+.header__lang-link {
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: right;
+color: #FFFFFF;
+text-decoration: none;
+display: inline-flex;
+flex-direction: row;
+}
+

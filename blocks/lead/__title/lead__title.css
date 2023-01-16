@@ -1,5 +1,4 @@
 .lead__title {
-  color: #FFFFFF;
   font-weight: 900;
   font-size: 96px;
   text-align: center;
@@ -9,10 +8,10 @@
   padding: 56px 0 0;
 }
 
+
 @media screen and (max-width: 320px) {
   .lead__title {
     width: 288px;
-    /*height: 88px;*/
     font-size: 40px;
     line-height: 1.1;
     padding: px 0 16px;

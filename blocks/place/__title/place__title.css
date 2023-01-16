@@ -13,6 +13,9 @@
   .place__title {
     max-width: 440px;
   }
+  .place__title:nth-of-type(1) {
+    width: 70%;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -28,6 +31,8 @@
     max-width: 288px;
     font-size: 32px;
     line-height: 1.09;
-
+    font-size: 32px;
+    line-height: 35px;
+    padding-left: 16px;
   }
 }

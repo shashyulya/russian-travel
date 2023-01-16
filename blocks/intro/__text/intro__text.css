@@ -6,7 +6,12 @@
   max-width: 70%;
   margin: 0;
   padding: 40px 0 33px;
+}
 
+@media screen and (max-width: 768px) {
+  .intro__text {
+  max-width: 720px;
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -15,3 +20,4 @@
     padding: 40px 0 33px;
   }
 }
+

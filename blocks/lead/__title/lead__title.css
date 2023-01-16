@@ -4,17 +4,17 @@
   font-size: 96px;
   text-align: center;
   max-width: 720px;
-  height: 200px;
+  /*height: 200px;*/
   margin: 0 auto;
-  padding: 136px 0 32px;
-
+  padding: 56px 0 0;
 }
 
 @media screen and (max-width: 320px) {
   .lead__title {
     width: 288px;
-    height: 88px;
+    /*height: 88px;*/
     font-size: 40px;
     line-height: 1.1;
+    padding: px 0 16px;
   }
 }

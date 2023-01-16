@@ -3,9 +3,9 @@
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
-  line-height: 1.5; /*18px*/
+  line-height: 1.5;
   text-align: start;
   padding: 0;
+  margin: 0;
   max-width: 690px;
-  max-height: 90px;
 }

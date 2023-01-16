@@ -8,5 +8,6 @@ color: #FFFFFF;
 text-decoration: none;
 display: inline-flex;
 flex-direction: row;
+text-rendering: optimizeLegibility;
 }
 

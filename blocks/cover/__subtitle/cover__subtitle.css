@@ -11,4 +11,5 @@
   max-width: 360px;
   margin: 0 auto;
   padding-top: 32px;
+  text-rendering: optimizeLegibility;
 }

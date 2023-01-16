@@ -3,6 +3,7 @@
   margin: 0 auto;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   width: 1184px;
   min-height: 740px;
   display: flex;

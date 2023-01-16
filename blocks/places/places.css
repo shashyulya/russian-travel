@@ -6,7 +6,7 @@ flex-direction: column;
 max-width: 984px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+/*@media screen and (min-width: 1024px) and (max-width: 1279px) {
 width: 928px;
 padding-top: 92px;
 margin: 0 auto;

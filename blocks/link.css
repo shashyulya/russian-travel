@@ -1,0 +1,6 @@
+.link {
+  opacity: 100%;
+}
+.link:hover {
+  opacity: 80%;
+}

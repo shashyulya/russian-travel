@@ -3,12 +3,12 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
-  /* or 106% */
+  line-height: 1.06;
   color: #FFFFFF;
   text-decoration: none;
   z-index: 2;
   max-width: 560px;
   text-align: center;
   margin: 0 auto;
+  text-rendering: optimizeLegibility;
 }

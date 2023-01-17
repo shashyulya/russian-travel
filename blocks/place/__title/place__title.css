@@ -13,10 +13,9 @@
   .place__title {
     max-width: 440px;
   }
-  .place__title:nth-of-type(1) {
-    width: 70%;
+  /*.place__title:nth-of-type(1) {
+    width: 70%;*/
   }
-}
 
 @media screen and (max-width: 768px) {
   .place__title {
@@ -29,10 +28,9 @@
 @media screen and (max-width: 320px) {
   .place__title {
     max-width: 288px;
+    width: 100%;
     font-size: 32px;
     line-height: 1.09;
-    font-size: 32px;
-    line-height: 35px;
     padding-left: 16px;
   }
 }

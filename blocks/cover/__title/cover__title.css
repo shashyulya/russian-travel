@@ -12,3 +12,12 @@
   margin: 0 auto;
   text-rendering: optimizeLegibility;
 }
+
+@media screen and (max-width: 320px) {
+.cover__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+    margin: 33px 16px 16px;
+}
+}

@@ -5,13 +5,16 @@
   padding: 64px 0 0;
   display: flex;
   justify-content: center;
+max-width: 100%;
+
+
 }
 
 @media screen and (max-width: 1024px) {
   .lead__image {
     max-width: 928px;
     height: 580px;
-    padding: 56px 48px 0;
+    padding: 56px 0 0;
   }
 }
 
@@ -23,10 +26,10 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 220px) and (max-width: 767px) {
   .lead__image {
     max-width: 320px;
     height: 200px;
-    padding: 40px 0 0 0;
+    padding: 40px 0 0;
   }
 }

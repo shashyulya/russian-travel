@@ -2,6 +2,7 @@
   max-width: 460px;
   max-height: 460px;
   padding: 0;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1024px) {

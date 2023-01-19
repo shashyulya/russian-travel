@@ -1,5 +1,7 @@
 .place__link {
   color: #FFFFFF;
-  padding-bottom: 48px;
-  padding-top: 12px;
+  /*padding-bottom: 48px;*/
+  margin-top: 12px;
+  display: inline-block;
+  ;
 }

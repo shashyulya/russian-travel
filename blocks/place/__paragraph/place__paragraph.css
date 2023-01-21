@@ -23,5 +23,6 @@
   .place__paragraph {
     padding: 0 16px;
     max-width: 288px;
+    font-size: 16px;
   }
 }

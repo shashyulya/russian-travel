@@ -25,7 +25,6 @@
     grid-template-columns: 340px auto;
     column-gap: 28px;
     padding-bottom: 72px;
-
   }
 
   .place:last-of-type {
@@ -39,6 +38,7 @@
     row-gap: 32px;
     padding: 0;
     padding-bottom: 50px;
+    margin: 0 auto;
   }
 
   .place:last-of-type {
